@@ -1,2 +1,2 @@
-# docker-grpc-latest
-Dockerfile for GRPC 1.0 for Debian 8
+# docker-grpc
+Dockerfile for c based gRPC 1.0
